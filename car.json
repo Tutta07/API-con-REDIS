@@ -1,0 +1,44 @@
+[
+    {
+        "placa": "ABC",
+        "renevam" : 123456,
+        "debitos" : [
+            {
+                "valor": 200,
+                "descricao": "Multa A"
+            },
+            {
+                "valor": 500,
+                "descricao": "Multa B"
+            }
+        ]
+    },
+    {
+        "placa": "DEF",
+        "renevam" : 654321,
+        "debitos" : [
+            {
+                "valor": 400,
+                "descricao": "Multa C"
+            },
+            {
+                "valor": 100,
+                "descricao": "Multa D"
+            }
+        ]
+    },
+    {
+        "placa": "GHI",
+        "renevam" : 198765,
+        "debitos" : [
+            {
+                "valor": 100,
+                "descricao": "Multa A"
+            },
+            {
+                "valor": 300,
+                "descricao": "Multa B"
+            }
+        ]
+    }
+]
